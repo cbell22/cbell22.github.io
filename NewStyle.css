@@ -1,0 +1,161 @@
+/* SMILE IMAGE FORMATTING */
+.smile {
+  position: relative;
+  top: -400px;
+
+  background-image: url(smile.png);
+  background-repeat: no-repeat;
+  width: auto;
+  height: auto;
+}
+div2 {
+  padding-right: 50px;
+  padding-left: 25px;
+}
+/* START NAME ON MAIN PAGE */
+.B {
+  position: relative;
+  top: -600px;
+  right: -25px;
+  font-size: 300%;
+  color: rgb(5, 5, 5);
+  display: inline-block;
+}
+.name {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+#A {
+  top: -500px;
+}
+#R {
+  top: -400px;
+}
+#L {
+  top: -300px;
+}
+#Y {
+  top: -200px;
+}
+
+/* START DOG PAGE STYLING */
+
+.dogs {
+  background-color: rgb(41, 9, 36);
+}
+.main {
+  background-color: rgb(230, 230, 202);
+}
+.lou1 {
+  position: relative;
+  top: -780px;
+  right: 430px;
+  background-image: url(louis1.jpg);
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 300px;
+}
+.bru1 {
+  position: relative;
+  top: -380px;
+  right: 175px;
+  background-image: url(bruno1.jpg);
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 275px;
+}
+h7 {
+  position: relative;
+  top: -710px;
+  right: -75px;
+  color: rgb(5, 5, 5);
+  font-size: 500%;
+}
+h8 {
+  position: relative;
+  top: -310px;
+  right: -275px;
+  color: rgb(5, 5, 5);
+  font-size: 500%;
+}
+
+.background {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(245, 187, 232);
+}
+.brunobox {
+  position: relative;
+  right: -450px;
+  height: 400px;
+  width: 400px;
+  background-color: rgb(240, 36, 196);
+}
+
+/* START 5 RECS ACROSS SCREEN */
+.rectangle {
+  width: 20%;
+  height: 250px;
+  background-color: rgb(156, 78, 150);
+  display: inline-block;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#rec1 {
+  background-color: rgb(245, 187, 232);
+}
+#rec2 {
+  background-color: rgb(248, 152, 227);
+  height: 350px;
+}
+#rec3 {
+  background-color: rgb(245, 105, 214);
+  height: 450px;
+}
+#rec4 {
+  background-color: rgb(240, 36, 196);
+  height: 550px;
+}
+#rec5 {
+  background-color: rgb(212, 21, 171);
+  height: 650px;
+}
+
+/* START DOTS ON END OF RECS */
+.dot {
+  position: relative;
+  width: 20%;
+  height: 150px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dots {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+#d1 {
+  top: -475px;
+  background-color: rgb(245, 187, 232);
+}
+#d2 {
+  top: -375px;
+  background-color: rgb(248, 152, 227);
+}
+#d3 {
+  top: -275px;
+  background-color: rgb(245, 105, 214);
+}
+#d4 {
+  top: -175px;
+  background-color: rgb(240, 36, 196);
+}
+#d5 {
+  top: -80px;
+  background-color: rgb(212, 21, 171);
+}
