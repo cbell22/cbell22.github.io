@@ -1,4 +1,13 @@
-
+/* SMILE IMAGE FORMATTING */
+.smile {
+    position: relative;
+    top: -400px;
+    
+    background-image: url(smile.png);
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    }
 div2{
     padding-right: 50px;
     padding-left: 25px;
